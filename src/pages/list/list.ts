@@ -24,6 +24,22 @@ export class ListPage {
       {
         title: 'Delete Items',
         page: 'DeleteItemsPage'
+      },
+      {
+        title: 'Reactive List Label',
+        page: 'ReactiveListLabelPage'
+      },
+      {
+        title: 'Users Listing',
+        page: 'UsersPage'
+      },
+      {
+        title: 'Crypto Currencies',
+        page: 'CryptoListPage'
+      },
+      {
+        title: 'List Card',
+        page: 'ListCardUiPage'
       }
     ];
   }

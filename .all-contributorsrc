@@ -105,6 +105,104 @@
         "code",
         "design"
       ]
+    },
+    {
+      "login": "nazrdogan",
+      "name": "Nazır Doğan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1672303?v=4",
+      "profile": "https://github.com/nazrdogan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Sletheren",
+      "name": "Abdelghafour Rakhma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12659402?v=4",
+      "profile": "http://www.fahrenbyte.com",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "AndreasGassmann",
+      "name": "AndreasGassmann",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/680814?v=4",
+      "profile": "https://github.com/AndreasGassmann",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "lucascco",
+      "name": "Lucas Carvalho Corrêa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6581094?v=4",
+      "profile": "https://github.com/lucascco",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "stephan-strate",
+      "name": "Stephan Strate",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19595615?v=4",
+      "profile": "https://www.stephan-strate.de/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Sab94",
+      "name": "Sabyasachi Patra",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15252513?v=4",
+      "profile": "https://github.com/Sab94",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "tallcoder",
+      "name": "Duane Helton",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1063019?v=4",
+      "profile": "http://xpressivetech.com/",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "Bengejd",
+      "name": "Jordan Benge",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11723093?v=4",
+      "profile": "https://www.jordanbenge.com",
+      "contributions": [
+        "review",
+        "design"
+      ]
+    },
+    {
+      "login": "ShadowMitia",
+      "name": "Dimitri Belopopsky",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3752363?v=4",
+      "profile": "http://shadowmitia.github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Luancarlos",
+      "name": "Luan Rocha",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/15051544?v=4",
+      "profile": "https://github.com/Luancarlos",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
-  ]
+  ],
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributorsPerLine": 7
 }
